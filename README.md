@@ -17,10 +17,3 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/samhithas04)
 
 [![](https://visitcount.itsvg.in/api?id=SaranDharshanSP&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
