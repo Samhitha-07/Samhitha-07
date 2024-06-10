@@ -1,22 +1,17 @@
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=css,html,python,javascript,jupyter,scss&perline=3)](https://skillicons.dev)
+<h1 align="center">Hi 👋, I'm Samhitha S</h1>
+<h3 align="center">2nd year Artificial Student</h3>
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=samhitha-07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samhitha-07&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samhitha-07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samhitha-07&label=Profile%20views&color=0e75b6&style=flat" alt="samhitha-07" /> </p>
 
-<!--
-**Samhitha-07/Samhitha-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samhitha-07" alt="samhitha-07" /></a> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samhitha-07&show_icons=true&locale=en&layout=compact" alt="samhitha-07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samhitha-07&show_icons=true&locale=en" alt="samhitha-07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samhitha-07&" alt="samhitha-07" /></p>
+
