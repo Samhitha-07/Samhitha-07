@@ -1,7 +1,7 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samhitha-07&theme=onedark&hide_border=true">
 </div>
