@@ -1,7 +1,7 @@
-<h2> Hi, I'm Samhitha S! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ```javascript
-const Sam = {
+const Samhitha = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
   libraries: [Pandas, Keras, Pytorch],
@@ -9,7 +9,7 @@ const Sam = {
                     
 
                     },
-  challenges: 
+  challenges: "I have taken up CodaLab challenges"
 }
 ```
 ## GitHub Stats 
