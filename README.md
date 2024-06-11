@@ -29,12 +29,3 @@ const Samhitha = {
 
 [![](https://visitcount.itsvg.in/api?id=samhitha-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Highlighted Projects
-
-<a href="https://github.com/samhitha-07/Burnt-Brotta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samhitha-07&repo=Burnt-Brotta&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Burnt-Brotta" height="150" width = "400">
-</a>
-
-<a href="https://github.com/samhitha-07/Auto-ML-Data-Visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samhitha-07&repo=Auto-ML-Data-Visualizer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Auto-ML-Data-Visualizer" height="150" width="350">
-</a>
