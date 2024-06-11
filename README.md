@@ -3,8 +3,13 @@
 ```javascript
 const Sam = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java],
   libraries: [Pandas, Keras, Pytorch],
+  tech communities: {
+                    
+
+                    },
+  challenges: 
 }
 ```
 ## GitHub Stats 
