@@ -5,11 +5,11 @@ const Samhitha = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
   libraries: [Pandas, Keras, Pytorch],
-  tech communities: {
-                    
-
+  tech communities: { 
+                    IETE Amrita Chapter, 
+                    GSSOC'26
                     },
-  challenges: "I have taken up CodaLab challenges"
+  challenges: "I have taken up CodaLab challenges, vibe coder challenges"
 }
 ```
 ## GitHub Stats 
